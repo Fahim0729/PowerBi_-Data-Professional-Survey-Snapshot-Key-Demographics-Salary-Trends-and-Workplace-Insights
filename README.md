@@ -4,11 +4,11 @@
 satisfaction to reveal key trends and insights within the industry
 
 
-![Data_Modeling](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/73d10023d6f8ca8b42e7b1c14f3aea5ffaac0109/Data_Modeling.png)
+![Data_Modeling]()
 
 
 
-![Dashboard](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/73d10023d6f8ca8b42e7b1c14f3aea5ffaac0109/DashBoard.png)
+![Dashboard]()
 
 ### 📌 1. How many professionals participated in this survey?
 
