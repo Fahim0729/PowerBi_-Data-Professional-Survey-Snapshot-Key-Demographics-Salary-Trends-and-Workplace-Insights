@@ -1,4 +1,4 @@
- # Data Professional Survey Snapshot: Key Demographics, Salary Trends, and Workplace Insights
+# 📊 Data Professional Survey Analysis: Key Demographics, Salary Trends, and Workplace Insights
 
 ##### This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
 
@@ -9,14 +9,7 @@
 
 ![Dashboard](https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/DashBoard.png)
 
-# 📊 Data Professional Survey Analysis
 
-This repository contains the analysis of a survey conducted with data professionals. The project explores key demographics, salary trends, programming language preferences, and workplace satisfaction.
-
-[//]: # (Optional: Add a link to your dashboard or a screenshot here)
-> **Key Insights:** Python dominates as the favorite language, Data Scientists are the highest earners, and the average respondent is just under 30 years old.
-
----
 
 ## 📝 Key Findings: Q&A Summary
 
