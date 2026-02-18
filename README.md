@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Analysis: Key Demographics, Salary Trends, and Workplace Insights
+## 📊 Data Professional Survey Analysis: Key Demographics, Salary Trends, and Workplace Insights
 
 ##### This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
 
