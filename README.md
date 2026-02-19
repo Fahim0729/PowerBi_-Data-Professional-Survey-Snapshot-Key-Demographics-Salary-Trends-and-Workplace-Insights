@@ -80,7 +80,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 ## 🔧 Data Preprocessing
 
-This section outlines the data cleaning and transformation steps applied to prepare the raw survey data for analysis. The primary tools used were Power Query (or a similar data transformation tool) to ensure accuracy and consistency.
+This section outlines the data cleaning and transformation steps applied to prepare the raw survey data for analysis. 
 
 ### 1. Salary Range Processing and Average Salary Calculation
 
