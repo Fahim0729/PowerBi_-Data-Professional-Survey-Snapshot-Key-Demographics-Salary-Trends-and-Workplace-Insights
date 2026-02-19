@@ -30,7 +30,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 🟩 A total of **630** data professionals from around the globe took part in this survey.
 
---
+---
 
 **📅 2. What is the average age of the survey respondents?**
 
