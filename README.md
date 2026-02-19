@@ -28,7 +28,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 **👥 1. How many professionals participated in this survey?**
 
-🟩 A total of **630** data professionals from around the globe took part in this survey.
+🟩 A total of 630 data professionals from various countries participated in this survey.
 
 ---
 
@@ -60,7 +60,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 **📈 6. How does satisfaction with salary change as professionals age?**
 
-🟩 - **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
+🟩 **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
 - **Older respondents (aged 66 and above)** report a much more stable outlook, with happiness consistently rating around a **5 out of 10**.
 
 ---
@@ -73,7 +73,7 @@ Here are the main insights derived from the 630 survey respondents.
 
 **⚖️ 8. How do professionals rate their workplace satisfaction?**
 
-🟩 - **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
+🟩- **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
 - **Coworker Relationships:** Was rated slightly higher, at **5.86/10**.
 
 ---
