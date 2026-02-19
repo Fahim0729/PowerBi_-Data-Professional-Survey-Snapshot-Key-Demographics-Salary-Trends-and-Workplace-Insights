@@ -2,6 +2,8 @@
 
 ##### 🟩 This survey provides a comprehensive overview of data professionals, exploring their demographics, salary patterns, programming preferences, and overall work satisfaction to reveal key trends and insights within the industry.
 
+---
+
 🗄️ Initially, three datasets—Demography, Career & Compensation, and Job Satisfaction & Survey—were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png" alt="Histogram" width="600"/>
@@ -17,6 +19,7 @@
   <br>
   <em>Figure: Power BI Dashboard for Data Visualization </em>
 </p>
+
 ---
 
 ## 📝 Key Findings: Q&A Summary
@@ -105,6 +108,8 @@ Several categorical columns, such as "Favorite Programming Language" or "Industr
 - **📂 Temporary Storage:** The extracted descriptive text was placed into a new temporary column.
 - **🧹 Cleanup:** The temporary column containing the specific details was reviewed and then deleted, as it was not needed for high-level categorical aggregation.
 - **✅ Standardization:** The original target column was retained with all values standardized to the main category (e.g., all entries became simply "Other" instead of "Other (specific reason)").
+
+---
 
 ## 📌 Conclusion
 
