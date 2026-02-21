@@ -74,6 +74,7 @@ Here are the main insights derived from the 630 survey respondents.
 **⚖️ 8. How do professionals rate their workplace satisfaction?**
 
 🟩 **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
+
 🟩 **Coworker Relationships:** Was rated slightly higher, at **5.86/10**.
 
 ---
