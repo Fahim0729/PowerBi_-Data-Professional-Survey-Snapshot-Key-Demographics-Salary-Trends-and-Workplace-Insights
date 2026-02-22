@@ -24,13 +24,7 @@
 
 - **Average Age:** 29.87 years, indicating a relatively young workforce
 
-- **Data Sources:**
-
-Demography
-
-Career & Compensation
-
-Job Satisfaction & Survey
+- **Data Sources:** Demography, Career & Compensation, Job Satisfaction & Survey
 
 ---
 
