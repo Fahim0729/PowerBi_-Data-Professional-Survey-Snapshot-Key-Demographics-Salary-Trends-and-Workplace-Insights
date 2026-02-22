@@ -28,7 +28,7 @@
 </p>
 
 
-📊 The Power BI dashboard, shown below, includes the following visualizations: Card, Area Chart, Line Chart, Stacked Column Chart, Pie Chart, Gauge, and Treemap.
+📊 The Power BI dashboard is shown below:
 
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/DashBoard.png" alt="Histogram" width="600"/>
@@ -72,32 +72,23 @@ Here are the main insights derived from the 630 survey respondents.
 
 This section outlines the data cleaning and transformation steps applied to prepare the raw survey data for analysis. 
 
-### 1. Salary Range Processing and Average Salary Calculation
+**Salary Range → Average Salary**
 
-The raw data contained salary information as text ranges (e.g., "50k-65k"). To perform numerical analysis, this column was processed to calculate a single average salary figure for each respondent.
+-- Converted ranges (e.g., “50k-65k”) to numeric values
 
-- **💾 Preservation:** The original salary range column was duplicated to maintain the raw data's integrity.
-- **✂️ Splitting:** The duplicated column was split to extract the minimum and maximum salary values. This was achieved by separating the string based on the transition from a digit to a non-digit character (the hyphen).
-- **🧹 Cleaning:**
-    - Textual characters like "k" (representing thousands) and hyphens ("-") were removed.
-    - The plus symbol ("+"), used in ranges like "150k+", was replaced with a value of **225** to serve as a standardized estimated upper bound (representing 225k).
-- **🔢 Type Conversion:** The cleaned minimum and maximum salary columns were converted from text to numeric data types to enable mathematical operations.
-- **➗ Average Calculation:** A new custom column was created to calculate the average salary for each respondent using the following formula:
+-- Handled “150k+” as 225k
+
+-- Calculated Average Salary
     ```
     (Minimum Salary + Maximum Salary) / 2
     ```
-- **📈 Result:** This new `Average Salary` column was used for all salary-related analysis in the report.
 
----
 
-### 2. Handling "Other" Categories with Subsections
+**Standardizing “Other” Categories**
 
-Several categorical columns, such as "Favorite Programming Language" or "Industry," contained an "Other" option where respondents could provide a specific write-in answer within parentheses `()` or after a colon `:`. To maintain categorical consistency while preserving the original response, the following steps were taken:
+-- Split write-ins in columns like “Favorite Programming Language” or “Industry” using ( or : as delimiters
 
-- **🧩 Isolation:** The column was split using a delimiter (specifically, `(` or `:`) to separate the main "Other" category from the respondent's specific, descriptive text.
-- **📂 Temporary Storage:** The extracted descriptive text was placed into a new temporary column.
-- **🧹 Cleanup:** The temporary column containing the specific details was reviewed and then deleted, as it was not needed for high-level categorical aggregation.
-- **✅ Standardization:** The original target column was retained with all values standardized to the main category (e.g., all entries became simply "Other" instead of "Other (specific reason)").
+-- Kept only the main category “Other”, removing any attached text or descriptions in parentheses or after a colon
 
 ---
 
