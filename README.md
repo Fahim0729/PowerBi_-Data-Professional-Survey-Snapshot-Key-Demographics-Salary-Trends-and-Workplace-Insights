@@ -4,9 +4,19 @@
 
 ---
 
-2️⃣ Tools Used
+🛠️ Tools Used
 
-Makes it ATS-friendly.
+- **Power BI:** Dashboarding and visual analysis (Card, Line, Area, Stacked Column, Pie, Gauge, Treemap)
+
+- **Power Query & DAX:** Data cleaning, transformation, and calculated metrics (e.g., Average Salary)
+
+- **Excel / CSV:**  Raw data storage and inspection
+
+- **Data Modeling:** Linking datasets via Unique ID for relational analysis
+
+**Purpose:** Enabled clean, standardized data and actionable insights for reporting.
+
+
 
 ---
 
