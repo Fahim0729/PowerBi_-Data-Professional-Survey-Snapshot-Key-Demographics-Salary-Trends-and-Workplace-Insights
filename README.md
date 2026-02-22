@@ -4,6 +4,12 @@
 
 ---
 
+2️⃣ Tools Used
+
+Makes it ATS-friendly.
+
+---
+
 🗄️ Initially, three datasets—Demography, Career & Compensation, and Job Satisfaction & Survey—were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png" alt="Histogram" width="600"/>
@@ -26,56 +32,29 @@
 
 Here are the main insights derived from the 630 survey respondents.
 
-**👥 1. How many professionals participated in this survey?**
+🟩 survey respondents:  A total of 630 data professionals from various countries participated in this survey.
 
-🟩 A total of 630 data professionals from various countries participated in this survey.
+🟩 average age of responds: The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
 
----
-
-**📅 2. What is the average age of the survey respondents?**
-
-🟩 The average age of a survey respondent is **29.87 years**, indicating a relatively young workforce.
-
----
-
-**💰 3. Which occupation commands the highest salary, and what are the top earners?**
-
-🟩 **Data Scientists** are the highest-paid professionals in this survey, earning an impressive average salary of **$94.04k**. They are followed by:
+🟩 Salary Insights: 
+- **Data Scientists:** $94.04k
 - **Data Engineers:** $65.29k
 - **Data Architects:** $64.00k
 
----
+🟩 Country Participation: The **United States** was the most responsive country, contributing **261** responses. **Canada** had the fewest respondents.
 
-**🌍 4. Which countries had the highest and lowest representation in the survey?**
+🟩 gender pay gap: While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
 
-🟩 The **United States** was the most responsive country, contributing **261** responses. **Canada** had the fewest respondents.
-
----
-
-**⚥ 5. Is there a gender pay gap among respondents?**
-
-🟩 While the gender split is nearly even (Male: 50.81%, Female: 49.19%), males earn a slightly higher average salary, pointing to a small but present gender pay gap within this survey group.
-
----
-
-**📈 6. How does satisfaction with salary change as professionals age?**
-
-🟩 **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
+🟩 Age vs Salary Satisfaction: 
+- **Younger and mid-career professionals** experience the most significant **fluctuations** in happiness, with ratings ranging from 3 to 8 out of 10.
 - **Older respondents (aged 66 and above)** report a much more stable outlook, with happiness consistently rating around a **5 out of 10**.
 
----
+🟩 Programming Language Preferences: **Python** is the overwhelming favorite. On the other end of the spectrum, **Java** was identified as the least popular language in this survey.
 
-**💻 7. Which programming languages are the most and least popular?**
+🟩 Workplace Satisfaction: 
+- **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
 
-🟩 **Python** is the overwhelming favorite. On the other end of the spectrum, **Java** was identified as the least popular language in this survey.
-
----
-
-**⚖️ 8. How do professionals rate their workplace satisfaction?**
-
-🟩 **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
-
-🟩 **Coworker Relationships:** Was rated slightly higher, at **5.86/10**.
+- **Coworker Relationships:** Was rated slightly higher, at **5.86/10**.
 
 ---
 
