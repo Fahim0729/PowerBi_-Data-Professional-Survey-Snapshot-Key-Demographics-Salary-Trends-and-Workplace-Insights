@@ -16,11 +16,25 @@
 
 **Purpose:** Enabled clean, standardized data and actionable insights for reporting.
 
+---
 
+📊 **Data Overview**
+
+- **Survey Size:** 630 data professionals across multiple countries
+
+- **Average Age:** 29.87 years, indicating a relatively young workforce
+
+- **Data Sources:**
+
+Demography
+
+Career & Compensation
+
+Job Satisfaction & Survey
 
 ---
 
-🗄️ Initially, three datasets—Demography, Career & Compensation, and Job Satisfaction & Survey—were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
+🗄️ Initially, three dataset were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png" alt="Histogram" width="600"/>
   <br>
