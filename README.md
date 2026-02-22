@@ -34,7 +34,9 @@ Job Satisfaction & Survey
 
 ---
 
-🗄️ Initially, three dataset were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
+🗄️ **Data Modeling & Dashboard**
+
+Initially, three dataset were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png" alt="Histogram" width="600"/>
   <br>
@@ -42,7 +44,7 @@ Job Satisfaction & Survey
 </p>
 
 
-📊 The Power BI dashboard is shown below:
+📊 The dashboard includes interactive visualizations such as Card, Area Chart, Line Chart, Stacked Column Chart, Pie Chart, Gauge, and Treemap to explore demographics, salaries, programming preferences, and workplace satisfaction is shown below:
 
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/DashBoard.png" alt="Histogram" width="600"/>
