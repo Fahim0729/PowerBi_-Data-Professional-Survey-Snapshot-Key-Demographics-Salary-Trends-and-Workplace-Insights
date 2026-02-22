@@ -4,7 +4,7 @@
 
 ---
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 
 - **Power BI:** Dashboarding and visual analysis (Card, Line, Area, Stacked Column, Pie, Gauge, Treemap)
 
