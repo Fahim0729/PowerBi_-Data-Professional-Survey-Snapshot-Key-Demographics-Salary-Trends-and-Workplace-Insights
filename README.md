@@ -34,7 +34,7 @@
 
 🗄️ **Data Modeling & Dashboard**
 
-Initially, three dataset were loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
+Initially, three dataset are loaded into Power BI. These datasets are connected using a Unique ID. The figure below illustrates the data model.
 <p align="center">
   <img src="https://github.com/Fahim0729/PowerBi_-Data-Professional-Survey-Snapshot-Key-Demographics-Salary-Trends-and-Workplace-Insights/blob/a9b0aba0c9a0e960bdaad406e8a066decc8629fc/Data_Modeling.png" alt="Histogram" width="600"/>
   <br>
@@ -65,7 +65,7 @@ Following are the key findings of the survey:
 - **Data Engineers:** $65.29k
 - **Data Architects:** $64.00k
 
-🟩 Country Participation: The **United States** was the most responsive nation with **261** responses. **Canada** had the fewest respondents.
+🟩 Country Participation: The **United States** is the most responsive nation with **261** responses. **Canada** had the fewest respondents.
 
 🟩 Gender pay gap: he gender distribution is almost balanced (Male: 50.81, Female: 49.19), but the average salary of males is slightly higher, indicating that there is a slight but existing gender pay gap in this survey group.
 
@@ -78,7 +78,7 @@ Following are the key findings of the survey:
 🟩 Workplace Satisfaction: 
 - **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
 
-- **Coworker Relationships:** Was rated slightly higher, at **5.86/10**.
+- **Coworker Relationships:** is rated slightly higher, at **5.86 out of 10**.
 
 ---
 
